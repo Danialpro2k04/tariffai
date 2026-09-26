@@ -1,6 +1,6 @@
 # 🎯 TariffAI — Intelligent HS Code Classification Engine
 
-> **Week 4 of the [TradeGuard](https://github.com/your-username/tradeguard) Platform**
+> **Week 4 of the [TradeGuard](https://github.com/Danialpro2k04/Trade_Guard) Platform**
 > An AI-powered engine that classifies messy cargo descriptions from Bills of Lading into accurate 6-digit Harmonized System (HS) codes — with full reasoning chains and confidence scoring.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
