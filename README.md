@@ -358,4 +358,4 @@ MIT
 
 ---
 
-**Built by [Your Name]** as part of the TradeGuard trade compliance platform.
+**Built by Danyal Wahdat** as part of the TradeGuard trade compliance platform.
